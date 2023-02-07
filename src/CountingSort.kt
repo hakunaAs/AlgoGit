@@ -1,4 +1,3 @@
-
 fun Array<Int>.countingSort() {
     val array = this
     if (array.isEmpty()) return
